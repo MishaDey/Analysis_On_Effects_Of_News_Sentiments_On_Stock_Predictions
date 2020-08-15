@@ -34,8 +34,8 @@ The comparitive results of both the models were found to be significantly differ
 
 
 Submitted by:
-Himanshu Dutta(@moriarity101)
 Misha Dey
+Himanshu Dutta
 Pratik Agarwala
 Shivam Kulshrestha
 Vivek Raj Rout
